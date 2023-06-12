@@ -1,2 +1,2 @@
 # api_rest_solid_principles
-Princípios SOLID en uma api rest com node.js e typescript
+Princípios SOLID em uma api rest com node.js e typescript
